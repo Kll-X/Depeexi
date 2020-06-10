@@ -1,0 +1,13 @@
+{
+  "appKey": "G9trGHrfliXtK0MRu0mMB2XBEP2RuTpX",
+  "appSecret": "RIyCPjqFyisO0nCIVKRlHoOiIMmsV1c0",
+  "projectId": 68,
+  "id": 159,
+  "name": "retail-console",
+  "framework": "vue",
+  "platform": "pc",
+  "description": "数字化电商后台管理",
+  "alias": {},
+  "pages": [],
+  "dependencies": []
+}
